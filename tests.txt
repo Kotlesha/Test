@@ -4,5 +4,6 @@ int main()
 {
     setlocale(LC_ALL, "Russian");
     cout << "Hello world";
+    int *a = new int[15];
     return 0;
 }
